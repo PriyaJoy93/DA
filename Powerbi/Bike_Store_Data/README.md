@@ -50,7 +50,7 @@ The dataset includes the following fields:
 
 ### 3. **Visualization Design**
 - Developed the dashboard with the following visuals:
-  - **KPI Cards**: Showcasing total revenue and profit.
+  - **New Cards**: Showcasing total revenue and profit.
   - **Line & stacked bar Chart**: Trends for riders, profit, and revenue over time.
   - **Bar Chart**: Revenue segmented by season.
   - **Donut Chart**: Rider demographic breakdown.
@@ -65,7 +65,7 @@ The dataset includes the following fields:
 ## Technologies Used
 
 - **Power BI Desktop**: For data cleaning, modeling, and dashboard creation.
-- **Excel/CSV**: For storing raw data (if applicable).
+- **Excel**: For storing raw data.
 
 ---
 
